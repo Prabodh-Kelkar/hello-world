@@ -1,3 +1,2 @@
 # hello-world
-My hello world repository
-Edit 1 - Updated the Readme file
+My edited hello world repository
